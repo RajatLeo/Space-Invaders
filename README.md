@@ -6,7 +6,7 @@ Space Invader is Popular game from 90's. Objective of this game is to shoot Inco
 
  **Prerequisites:**
 
-_You need to install Pygame Module to run this Project.
+You need to install Pygame Module to run this Project.
 
 **Installing:**
 
