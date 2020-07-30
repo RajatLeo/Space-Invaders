@@ -1,4 +1,4 @@
-**Space Invaders**
+# **Space Invaders**
 
 Space Invader is Popular game from 90's. Objective of this game is to shoot Incoming Aliens before they reach bottom of the screen. This game is made using Pygame Module of Python.
 
